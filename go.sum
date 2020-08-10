@@ -1,0 +1,4 @@
+github.com/gozaddy/secret.ly v1.0.1 h1:xANmv0DQl5f7097j0UY4PI3ILwVtj+/oCiRP/AebvyY=
+github.com/gozaddy/secret.ly v1.0.1/go.mod h1:eTipJ4ybmzbdjQ/6ZgnPkmAXjR8dR7HL+YI8vOUNUcg=
+github.com/mitchellh/go-homedir v1.1.0 h1:lukF9ziXFxDFPkA1vsr5zpc1XuPDn/wFntq5mG+4E0Y=
+github.com/mitchellh/go-homedir v1.1.0/go.mod h1:SfyaCUpYCn1Vlf4IUYiD9fPX4A5wJrkLzIz1N1q0pr0=
